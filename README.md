@@ -6,7 +6,7 @@ The goal of our project is to achieve a 3D demonstration program that can simula
 We have achieved this goal and allow users to use mouse drag and wheel zoom to change their viewpoint position and viewpoint distance. 
 On this basis, we have also added two buttons, and when users click them, 
 they can realize "start / pause planetary rotation" and "accelerate / restore rotation speed".
-At the same time, we also set the appropriate size and correct texture for each planet, and added
+At the same time, we also set the appropriate size and correct texture for each planet, and added stars in background.
 
 # Environment
 Our project is based on Processing Java version and requires PeasyCam Library.
