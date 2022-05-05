@@ -2,7 +2,7 @@
 EE552ws Final
 
 # introduction
-The goal of our project is to achieve a 3D demonstration program that can simulate the revolution of the solar system and internal planets. 
+The goal of our project is to achieve a 3D demonstration program that can simulate the rotation of the solar system and internal planets. 
 We have achieved this goal and allow users to use mouse drag and wheel zoom to change their viewpoint position and viewpoint distance. 
 On this basis, we have also added two buttons, and when users click them, 
 they can realize "start / pause planetary rotation" and "accelerate / restore rotation speed".
